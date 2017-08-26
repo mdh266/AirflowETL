@@ -1,0 +1,4 @@
+airflow[postgres]
+psycopg2
+sqlalchemy
+sqlalchemy-utils
